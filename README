@@ -1,0 +1,6 @@
+
+
+Usage: primes.rb [options]
+    --[no_option]                    Displays the multiplication of first 10 primes
+    -p, --position position          Displays prime number by given position
+    -h, --help                       Displays Help
